@@ -1,0 +1,36 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0;
+}
+
+span{
+    color: black;
+    font-size: 20px;
+}
+
+#song{
+    color: white;
+    font-size: 23px;
+    margin-left: 10;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    background-color: cornflowerblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+}
+
+canvas{
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
